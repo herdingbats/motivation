@@ -4,7 +4,7 @@ This is a little widget to help stay focused—when you open a new tab in your b
 
 
 
-##Installation
+## Installation
 
 1. Clone the repo to your computer with `git clone https://github.com/herdingbats/motivation.git` It comes packaged with a small folder of images (my photos, see more on [Flickr](https://www.flickr.com/photos/herdingbats/)! \<\/shamelessplug>).
 
