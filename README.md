@@ -11,7 +11,7 @@ This is a little widget to help stay focused—when you open a new tab in your b
 2. Set the python script to run on startup:
 * For Mac users: I've created a shell script that contains the one-line command to run the script and make it run on startup (directions and more information from [here](https://stackoverflow.com/questions/29338066/mac-osx-execute-a-python-script-at-startup). Specifically:  
 
-> ```#!/bin/bash
+```#!/bin/bash
 python username/Desktop/motivation/motivation.py```
 > Substitute in the path for where you've saved the script.
 
